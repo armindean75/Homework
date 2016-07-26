@@ -1,0 +1,131 @@
+
+
+
+
+ body {
+	font-size: 18px;
+	
+	color: #ebebeb;
+	background: #333;
+}
+
+#main-header {
+    	text-align: center;	
+	padding: 20px;
+	margin-bottom: 20px;
+	font-size: 18px;	
+	color: black;
+	background: white;
+}
+
+#nav1 {
+    	text-align: center;	
+	padding: 20px;
+	margin-bottom: 20px;
+	font-size: 18px;	
+	color: black;
+	background: white;
+}
+
+#section1 {
+	display:block;
+	width:495px; 
+	float: left;
+	text-align: center;	
+	padding: 20px;
+	margin-bottom: 20px;
+	font-size: 18px;	
+	color: black;
+	background: white;
+}
+
+#article1 {
+	display:block; 
+	text-align: center;	
+	padding: 20px;
+	margin-bottom: 20px;
+	font-size: 18px;	
+	color: white;
+	background: black;
+}
+
+#articleh1 {
+	display:block; 
+	text-align: center;	
+	padding: 10px;
+	margin-bottom: 10px;
+	font-size: 18px;	
+	color: black;
+	background: white;
+	width: 110px;
+
+
+}
+
+#articleh2 {
+	display:block; 
+	text-align: center;	
+	padding: 10px;
+	margin-bottom: 10px;
+	font-size: 18px;	
+	color: black;
+	background: white;
+	width: 110px;
+
+
+}
+
+#articleh3 {
+	display:block; 
+	text-align: center;	
+	padding: 10px;
+	margin-bottom: 10px;
+	font-size: 18px;	
+	color: black;
+	background: white;
+	width:110px;
+
+
+}
+
+#articlep {
+	display:block; 
+	text-align: center;	
+	padding: 20px;
+	margin-bottom: 20px;
+	font-size: 18px;		
+	overflow: auto;
+	color: black;
+	background: white;
+}
+
+#aside1 {
+	display:block; 
+	width:495px;
+	text-align: center;	
+	padding: 20px;
+	margin-bottom: 20px;
+	font-size: 18px;	
+	color: black;
+	background: white;
+
+}
+
+
+#aside1 {
+        text-align:center;
+        float: right;
+}
+
+
+
+#footer1 {
+       text-align:center;
+       font-size: 18px;
+       padding: 20px;
+       margin-bottom: 20px;
+       font-size: 18px;	
+       color: black;
+       background: white;
+   clear: both;
+}
